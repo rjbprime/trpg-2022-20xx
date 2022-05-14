@@ -220,16 +220,16 @@
     src: 
         local("Utopia"),
         local("Utopia"),
-        url('./fonts/Utopia.otf'),
-        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-regular.otf") format("truetype");
+        url('./fonts/utopia.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia.otf") format("opentype");
 }
 @font-face {
     font-family: "Utopia";
     src: 
         local("Utopia"),
         local("Utopia"),
-        url('./fonts/utopia-bolditalic.otf'),
-        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bolditalic.otf") format("truetype");
+        url('./fonts/utopia-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bold-it.otf") format("opentype");
     font-weight: bold;
     font-style: italic;
 }
@@ -239,7 +239,7 @@
         local("Utopia"),
         local("Utopia"),
         url('./fonts/utopia-bold.otf'),
-        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bold.otf") format("truetype");
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bold.otf") format("opentype");
     font-weight: bold;
 }
 @font-face {
@@ -247,7 +247,7 @@
     src: 
         local("Utopia"),
         local("Utopia"),
-        url('./fonts/Utopia-it.otf'),
-        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-italic.otf") format("truetype");
+        url('./fonts/utopia-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-it.otf") format("opentype");
     font-style: italic;
 }
